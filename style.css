@@ -1,0 +1,12 @@
+body{
+    background-image: url(Background\ login.jpg);
+}
+
+.login{
+    text-align: center;
+    background-color: #D9D8D2;
+    margin-left: 40%;
+    margin-right: 40%;
+    margin-top: 15%;
+    padding: 20px 20px 30px 20px;
+}
